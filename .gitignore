@@ -1,0 +1,10 @@
+/node_modules/
+/.idea/
+/secrets.json
+/migrations/
+/build/
+/test/
+/accounts.json
+/truffle-config.js
+/artifacts
+/cache
